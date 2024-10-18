@@ -48,9 +48,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/malikwassay/malikwassay/output/snake.svg" alt="Snake animation" />
-
-###
